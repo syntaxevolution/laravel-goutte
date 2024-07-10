@@ -19,7 +19,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/syntaxevolution/Goutte.git"
-        },
+        }
     ],
     "require": {
         "php": ">=7.3",
