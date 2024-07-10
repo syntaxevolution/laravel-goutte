@@ -24,7 +24,7 @@
     "require": {
         "php": ">=7.3",
         "illuminate/support": "^8|^9|^10.0|^11.0",
-        "syntaxevolution/goutte": "dev-master"
+        "syntaxevolution/goutte": "^0.0.1"
     },
     "require-dev": {
         "orchestra/testbench": "^6|^8.0"
